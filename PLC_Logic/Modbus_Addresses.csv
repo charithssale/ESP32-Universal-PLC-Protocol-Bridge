@@ -1,0 +1,5 @@
+Address,Data Type,Modbus Address,Function Code,Nickname,Initial Value,Retentive,Address Comment
+Y001,BIT,8193,"FC=01,05,15","",0,No,""
+SC1,BIT,161441,"FC=02","_Always_ON",0,No,""
+DS1,INT,400001,"FC=03,06,16","",0,Yes,""
+DS2,INT,400002,"FC=03,06,16","",0,Yes,""
